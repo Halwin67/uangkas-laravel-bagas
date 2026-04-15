@@ -34,4 +34,4 @@ Proyek ini menggunakan **Tailwind CSS** dengan palet warna *Vivid Azure* dan *Sl
 ### 📖 Cara Instalasi (Local)
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username-kamu/uangkas-laravel.git](https://github.com/username-kamu/uangkas-laravel.git)
+   git clone [https://github.com/username-kamu/uangkas-laravel.git](https://github.com/Halwin67/uangkas-laravel.git)
